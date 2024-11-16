@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+## About me
 
 Hi! I'm Muzhou (Richard) Ma /mu ʈʂoʊ ma/ (马牧洲), a senior undergraduate at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am deeply intrigued by the information-theoretical interpretations of nature and how they shape the capabilities and limitations of computation. 
 
@@ -17,3 +17,14 @@ I've enjoyed a fruitful experience as an undergrad research fellow in [John Pres
 
 **I am seeking a PhD position for Fall 2025.**
 
+## Research Publications
+
+
+
+<div style="display: flex; margin-bottom: 40px; background-color: white;">
+  <img src="../images/Muzhou_Ma.png" style="width: 280px; height: auto; margin-right: 10px;">
+  <p style="flex-grow: 1; line-height: 1.6; font-size: 16px;">
+    <strong>Learning <i>k</i>-Body Hamiltonians via Compressed Sensing</strong><br>
+    <span style="display: block; margin-top: 5px; font-size: 14px;"><strong>Muzhou Ma</strong>, Steven Flammia, John Preskill, Yu Tong</span><br>
+  </p>
+</div>
