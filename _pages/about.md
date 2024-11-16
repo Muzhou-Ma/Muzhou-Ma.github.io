@@ -19,12 +19,20 @@ I've enjoyed a fruitful experience as an undergrad research fellow in [John Pres
 
 ## Research Publications
 
-
-
-<div style="display: flex; margin-bottom: 40px; background-color: white;">
-  <img src="../images/Muzhou_Ma.png" style="width: 280px; height: auto; margin-right: 10px;">
-  <p style="flex-grow: 1; line-height: 1.6; font-size: 16px;">
-    <strong>Learning <i>k</i>-Body Hamiltonians via Compressed Sensing</strong><br>
-    <span style="display: block; margin-top: 5px; font-size: 14px;"><strong>Muzhou Ma</strong>, Steven Flammia, John Preskill, Yu Tong</span><br>
-  </p>
-</div>
+<ul>
+  <li>
+    <b>Muzhou Ma</b>, Steven T. Flammia, John Preskill, and Yu Tong, 
+    “Learning <i>k</i>-Body Hamiltonians via Compressed Sensing”, 
+    <a href="https://arxiv.org/abs/2410.18928">arXiv:2410.18928 (2024) [quant-ph]</a>, QIP 2025.
+  </li>
+  <li>
+    Yuxuan Yan<sup>*</sup>, <b>Muzhou Ma</b><sup>*</sup>, You Zhou, and Xiongfeng Ma, 
+    “Variational LOCC-assisted quantum circuits for long-range entangled states”, 
+    <a href="https://arxiv.org/abs/2409.07281">arXiv:2409.07281 (2024) [quant-ph]</a>, AQIS 2024.
+  </li>
+  <li>
+    Zhihao Xu<sup>*</sup>, Tiankuang Zhou<sup>*</sup>, <b>Muzhou Ma</b>, Chenchen Deng, Qionghai Dai, and Lu Fang, 
+    “Large-scale photonic chiplet Taichi empowers 160-TOPS/W artificial general intelligence”, 
+    <a href="https://www.science.org/doi/10.1126/science.adl1203"><b>Science</b> 384, 202-209 (2024)</a>.
+  </li>
+</ul>
