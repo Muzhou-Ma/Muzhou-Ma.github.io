@@ -13,7 +13,7 @@ I've enjoyed a fruitful experience as an undergrad research fellow in [John Pres
 
 Apart from research, I enjoy hiking and rock-climbing!
 
-<span style="color:red">**I am seeking a PhD position for Fall 2025!**</span>
+<span style="color:orange">**I am seeking a PhD position for Fall 2025!**</span>
 
 
 ## Publications
@@ -36,6 +36,15 @@ Apart from research, I enjoy hiking and rock-climbing!
   </li>
 </ul>
 
+## Selected Scholarships \& Awards
+<ul>
+
+  <li><p style="font-family:Times New Roman">Caltech Summer Undergraduate Research Fellowships</p></li>
+  <li><p style="font-family:Times New Roman">National Scholarships</p></li>
+  <li><p style="font-family:Times New Roman">Jiang Nanxiang Scholarships</p></li>
+  <li><p style="font-family:Times New Roman">2<sup>nd</sup> Place in the Accuracy Track of ACM/IEEE Quantum Computing for Drug Discovery Challenge at ICCAD 2023</p></li>
+  
+</ul>
 
 
 
