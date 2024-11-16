@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome!
+
 =====
 
 Hi! I'm Muzhou (Richard) Ma /mu ʈʂoʊ ma/ (马牧洲), a senior undergraduate at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am deeply intrigued by the information-theoretical interpretations of nature and how they shape the capabilities and limitations of computation. 
