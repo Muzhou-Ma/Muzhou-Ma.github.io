@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Muzhou Ma's Personal Homepage"
+title                    : "Muzhou Ma's Homepage"
 title_separator          : "-"
 name                     : &name "Muzhou (Richard) Ma"
 description              : &description "personal description"
