@@ -24,9 +24,9 @@ author:
   avatar           : "Muzhou_Ma.png"
   name             : "Muzhou Ma"
   pronouns         : # example: "she/her"  
-  bio              : "Undergrad at Tsinghua University"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Undergraduate Student at Tsinghua University"
+  location         : # URL
+  employer         : # URL
   uri              : # URL
   email            : "muzhouma2002@gmail.com" 
 
