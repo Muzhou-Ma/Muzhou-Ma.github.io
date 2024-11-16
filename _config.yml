@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Muzhou Ma"
+title                    : "Muzhou Ma's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Muzhou Ma"
+name                     : &name "Muzhou (Richard) Ma"
 description              : &description "personal description"
 url                      : https://Muzhou-Ma.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ author:
   avatar           : "Muzhou_Ma.png"
   name             : "Muzhou Ma"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Student at Tsinghua University"
+  bio              : "Undergraduate Student"
   location         : # URL
-  employer         : # URL
+  employer         : "Tsinghua University"
   uri              : # URL
   email            : "muzhouma2002@gmail.com" 
 

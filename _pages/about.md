@@ -9,30 +9,34 @@ redirect_from:
 
 ## About me
 
+
+
 Hi! I'm Muzhou (Richard) Ma /mu ʈʂoʊ ma/ (马牧洲), a senior undergraduate at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am deeply intrigued by the information-theoretical interpretations of nature and how they shape the capabilities and limitations of computation. 
 
 I believe the key to deepening our understanding of nature and opening up a new era of computation is to decode the intricate interplay between physics and information. So I started working in the intersection of Information theory, physics and computer science with a particular interest in **quantum information theory**. 
 
 I've enjoyed a fruitful experience as an undergrad research fellow in [John Preskill's group](http://theory.caltech.edu/~preskill/) at [IQIM,Caltech](https://iqim.caltech.edu/), hornored to be co-mentored by [John Preskill](http://theory.caltech.edu/~preskill/), [Yu Tong](https://pratt.duke.edu/people/yu-tong/), and [Steven Flammia](https://sflammia.github.io/). At Tsinghua, I'm working on quantum information theory in [Xiongfeng Ma's group](https://iiis.tsinghua.edu.cn/maxiongfeng/) at [IIIS](https://iiis.tsinghua.edu.cn/en/) and photonic computation in [Lu Fang's group](https://www.luvision.net/) at [EE](https://www.ee.tsinghua.edu.cn/en/).
 
-**I am seeking a PhD position for Fall 2025.**
+Apart from research, I enjoy hiking and rock-climbing!
+
+<span style="color:red">**I am seeking a PhD position for Fall 2025!**</span>
+
 
 ## Publications
-
 <ul>
   <li>
-    <p style="font-family: Times New Roman; font-size: 18px"> <strong>Learning <i>k</i>-Body Hamiltonians via Compressed Sensing,</strong></p>
+    <p style="font-family: Times New Roman; font-size: 20px"> <strong>Learning <i>k</i>-Body Hamiltonians via Compressed Sensing,</strong></p>
     <b>Muzhou Ma</b>, Steven T. Flammia, John Preskill, and Yu Tong,  
     <a href="https://arxiv.org/abs/2410.18928">arXiv:2410.18928 (2024) [quant-ph]</a>, QIP 2025.
   </li>
   <br>
   <li>
-    <p style="font-family:Times New Roman; font-size: 18px"><strong>Variational LOCC-assisted quantum circuits for long-range entangled states,</strong></p>
+    <p style="font-family:Times New Roman; font-size: 20px"><strong>Variational LOCC-assisted quantum circuits for long-range entangled states,</strong></p>
     Yuxuan Yan<sup>*</sup>, <b>Muzhou Ma</b><sup>*</sup>, You Zhou, and Xiongfeng Ma, <a href="https://arxiv.org/abs/2409.07281">arXiv:2409.07281 (2024) [quant-ph]</a>, AQIS 2024.
   </li>
   <br>
   <li>
-     <p style="font-family:Times New Roman; font-size: 18px">Large-scale photonic chiplet Taichi empowers 160-TOPS/W artificial general intelligence,</strong></p>
+     <p style="font-family:Times New Roman; font-size: 20px"><strong>Large-scale photonic chiplet Taichi empowers 160-TOPS/W artificial general intelligence,</strong></p>
     Zhihao Xu<sup>*</sup>, Tiankuang Zhou<sup>*</sup>, <b>Muzhou Ma</b>, Chenchen Deng, Qionghai Dai, and Lu Fang, 
     <a href="https://www.science.org/doi/10.1126/science.adl1203"><b>Science</b> 384, 202-209 (2024)</a>.
   </li>
