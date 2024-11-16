@@ -32,7 +32,7 @@ Apart from research, I enjoy hiking and rock-climbing!
   <li>
      <span style="font-family:Times New Roman; font-size: 22px"><strong>Large-scale photonic chiplet Taichi empowers 160-TOPS/W artificial general intelligence,</strong></span><br>
     Zhihao Xu<sup>*</sup>, Tiankuang Zhou<sup>*</sup>, <b>Muzhou Ma</b>, Chenchen Deng, Qionghai Dai, and Lu Fang, 
-    <a href="https://www.science.org/doi/10.1126/science.adl1203"><b>Science</b> 384, 202-209 (2024)</a>.
+    <a href="https://www.science.org/doi/10.1126/science.adl1203"><i>Science</i> 384, 202-209 (2024)</a>.
   </li>
 </ul>
 
