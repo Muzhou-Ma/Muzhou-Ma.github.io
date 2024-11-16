@@ -25,18 +25,18 @@ Apart from research, I enjoy hiking and rock-climbing!
 ## Publications
 <ul>
   <li>
-    <p style="font-family: Times New Roman; font-size: 20px"> <strong>Learning <i>k</i>-Body Hamiltonians via Compressed Sensing,</strong></p>
+    <p style="font-family: Times New Roman; font-size: 23px"> <strong>Learning <i>k</i>-Body Hamiltonians via Compressed Sensing,</strong></p>
     <b>Muzhou Ma</b>, Steven T. Flammia, John Preskill, and Yu Tong,  
     <a href="https://arxiv.org/abs/2410.18928">arXiv:2410.18928 (2024) [quant-ph]</a>, QIP 2025.
   </li>
   <br>
   <li>
-    <p style="font-family:Times New Roman; font-size: 20px"><strong>Variational LOCC-assisted quantum circuits for long-range entangled states,</strong></p>
+    <p style="font-family:Times New Roman; font-size: 23px"><strong>Variational LOCC-assisted quantum circuits for long-range entangled states,</strong></p>
     Yuxuan Yan<sup>*</sup>, <b>Muzhou Ma</b><sup>*</sup>, You Zhou, and Xiongfeng Ma, <a href="https://arxiv.org/abs/2409.07281">arXiv:2409.07281 (2024) [quant-ph]</a>, AQIS 2024.
   </li>
   <br>
   <li>
-     <p style="font-family:Times New Roman; font-size: 20px"><strong>Large-scale photonic chiplet Taichi empowers 160-TOPS/W artificial general intelligence,</strong></p>
+     <p style="font-family:Times New Roman; font-size: 23px"><strong>Large-scale photonic chiplet Taichi empowers 160-TOPS/W artificial general intelligence,</strong></p>
     Zhihao Xu<sup>*</sup>, Tiankuang Zhou<sup>*</sup>, <b>Muzhou Ma</b>, Chenchen Deng, Qionghai Dai, and Lu Fang, 
     <a href="https://www.science.org/doi/10.1126/science.adl1203"><b>Science</b> 384, 202-209 (2024)</a>.
   </li>
