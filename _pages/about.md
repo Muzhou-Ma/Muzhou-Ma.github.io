@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About me
-
-
-
 Hi! I'm Muzhou (Richard) Ma /mu ʈʂoʊ ma/ (马牧洲), a senior undergraduate at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am deeply intrigued by the information-theoretical interpretations of nature and how they shape the capabilities and limitations of computation. 
 
 I believe the key to deepening our understanding of nature and opening up a new era of computation is to decode the intricate interplay between physics and information. So I started working in the intersection of Information theory, physics and computer science with a particular interest in **quantum information theory**. 
@@ -41,6 +37,7 @@ Apart from research, I enjoy hiking and rock-climbing!
     <a href="https://www.science.org/doi/10.1126/science.adl1203"><b>Science</b> 384, 202-209 (2024)</a>.
   </li>
 </ul>
+
 
 
 
