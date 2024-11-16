@@ -19,7 +19,7 @@ Apart from research, I enjoy hiking and rock-climbing!
 ## Publications
 <ul>
   <li>
-    <span style="font-family: Times New Roman; font-size: 22px;"> <i><strong>Learning <i>k</i>-Body Hamiltonians via Compressed Sensing</strong></i></span><br>
+    <span style="font-family: Times New Roman; font-size: 22px;"> <i><strong>Learning <i>k</i>-body Hamiltonians via compressed sensing</strong></i></span><br>
     <b>Muzhou Ma</b>, Steven T. Flammia, John Preskill, and Yu Tong,  
     <a href="https://arxiv.org/abs/2410.18928">arXiv:2410.18928 (2024) [quant-ph]</a>, QIP 2025.
   </li>
