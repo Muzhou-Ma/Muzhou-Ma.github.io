@@ -11,7 +11,7 @@ Hi! I'm Muzhou Ma /mu ʈʂoʊ ma/ (马牧洲), I also go by the name Richard. I'
 
 I've enjoyed a fruitful experience as an undergrad research fellow in [John Preskill's group](http://theory.caltech.edu/~preskill/) at [IQIM,Caltech](https://iqim.caltech.edu/), hornored to be co-mentored by [John Preskill](http://theory.caltech.edu/~preskill/), [Yu Tong](https://pratt.duke.edu/people/yu-tong/), and [Steven Flammia](https://sflammia.github.io/). At Tsinghua, I'm working on quantum information theory in [Xiongfeng Ma's group](https://iiis.tsinghua.edu.cn/maxiongfeng/) at [IIIS](https://iiis.tsinghua.edu.cn/en/) and photonic computation in [Lu Fang's group](https://www.luvision.net/) at [EE](https://www.ee.tsinghua.edu.cn/en/).
 
-Apart from research, I enjoy hiking and rock-climbing!
+Apart from research, I also enjoy hiking and rock-climbing!
 
 <span style="color:orange">**I am seeking a PhD position for Fall 2025!**</span>
 
