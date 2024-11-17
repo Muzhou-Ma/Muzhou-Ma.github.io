@@ -58,4 +58,4 @@ Apart from research, I also enjoy hiking and rock-climbing!
 <span style="font-family: Georgia">*"I would rather have questions that can't be answered than answers that can't be questioned."*</span>
 
 
-<span style="font-family: Georgia; float: right">*---- Richard P. Feynman*</span>
+<span style="font-family: Georgia; float: right">*--- Richard P. Feynman*</span>
