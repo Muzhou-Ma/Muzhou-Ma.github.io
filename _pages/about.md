@@ -42,8 +42,8 @@ Apart from research, I also enjoy hiking and rock-climbing!
 <ul>
 
   <li>Caltech Summer Undergraduate Research Fellowship (SURF)</li>
-  <li>China National Scholarships</li>
-  <li>Tsinghua Jiang Nanxiang Scholarships</li>
+  <li>China National Scholarship</li>
+  <li>Tsinghua Jiang Nanxiang Scholarship</li>
   <li>2<sup>nd</sup> Place in the Accuracy Track of ACM/IEEE Quantum Computing for Drug Discovery Challenge at ICCAD 2023</li>
   
 </ul>
