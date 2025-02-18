@@ -19,6 +19,12 @@ Apart from research, I also enjoy hiking and rock-climbing!
 ## Publications
 <ul>
   <li>
+    <span style="font-family: Times New Roman; font-size: 22px;"> <i><strong>Ansatz-free Hamiltonian learning with Heisenberg-limited scaling</strong></i></span><br>
+    Hong-Ye Hu<sup>*</sup>,<b>Muzhou Ma</b><sup>*</sup>, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, Susanne F. Yelin,  
+    <a href="https://arxiv.org/abs/2502.11900v1">2502.11900 (2025) [quant-ph]</a>.
+  </li>
+  <br>
+  <li>
     <span style="font-family: Times New Roman; font-size: 22px;"> <i><strong>Learning <i>k</i>-body Hamiltonians via compressed sensing</strong></i></span><br>
     <b>Muzhou Ma</b>, Steven T. Flammia, John Preskill, and Yu Tong,  
     <a href="https://arxiv.org/abs/2410.18928">arXiv:2410.18928 (2024) [quant-ph]</a>, QIP 2025.
