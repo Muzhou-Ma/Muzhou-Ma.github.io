@@ -21,7 +21,7 @@ Apart from research, I also enjoy hiking and rock-climbing!
   <li>
     <span style="font-family: Times New Roman; font-size: 22px;"> <i><strong>Ansatz-free Hamiltonian learning with Heisenberg-limited scaling</strong></i></span><br>
     Hong-Ye Hu<sup>*</sup>,<b>Muzhou Ma</b><sup>*</sup>, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, Susanne F. Yelin,  
-    <a href="https://arxiv.org/abs/2502.11900v1">2502.11900 (2025) [quant-ph]</a>.
+    <a href="https://arxiv.org/abs/2502.11900">2502.11900 (2025) [quant-ph]</a>.
   </li>
   <br>
   <li>
